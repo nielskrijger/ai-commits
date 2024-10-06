@@ -6,6 +6,8 @@ Based on [AI GIT commits](https://github.com/tskoyo/ai-git-commit).
 
 **BE AWARE: the attempt is to generate the best commit messages regardless of cost. Check the [usage dashboard](https://platform.openai.com/usage) to avoid unexpected charges.**
 
+![Example output](https://github.com/nielskrijger/ai-commits/blob/main/example.png?raw=true)
+
 ## Usage
 
 Git clone this repository and run the following command:
